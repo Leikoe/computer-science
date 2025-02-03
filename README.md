@@ -44,5 +44,6 @@ If something is here but I haven't read it yet, It means that I think it will be
 - junminlee's [youtube channel](https://www.youtube.com/@JamieGo-id9xu) (this one seems new, maybe she deleted the old one?)
 ---
 
-## Misc how X works (low level, linux / OS dev)
+## Misc how X works (low level, linux / OS dev) -- If you don't really know what you want to learn but still want to learn something today
+- Tsoding's penger of a [youtube channel](https://www.youtube.com/@TsodingDaily)
 - sphaerophoria's gold mine of a [youtube channel](https://www.youtube.com/@sphaerophoria). He takes you to building your own google maps, making your own os and even writing your own gpu driver.
