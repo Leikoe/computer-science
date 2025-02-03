@@ -1,6 +1,7 @@
 # computer-science
 A curated list of the very best computer science materials I found while wandering online.  
 The works featured here I either have read / watched or are on my list.
+If something is here but I haven't read it yet, It means that I think it will be extremely high quality and worthwhile even though I haven't read it yet.
 
 ## Category Theory
 - Bartosz Milewski's [youtube channel](https://www.youtube.com/@DrBartosz/videos)
