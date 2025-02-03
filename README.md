@@ -5,7 +5,7 @@ If something is here but I haven't read it yet, It means that I think it will be
 
 ## Maths
 ### Game development
-- Freya Holmér's well crafted [youtube channel](https://www.youtube.com/@acegikmo). You can find a series about Splines, game dev maths basics and much more.
+- Freya Holmér's insanely well crafted [youtube channel](https://www.youtube.com/@acegikmo). You can find a series about Splines, game dev maths basics and much more.
 ### Machine Learning
 - Adam Dhalla's excellent [The Complete Mathematics of Neural Networks and Deep Learning](https://www.youtube.com/watch?v=Ixl3nykKG9M) video (the rest of his channel also has a very complete linear algebra class).
 ## Category Theory
