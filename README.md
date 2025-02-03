@@ -17,7 +17,7 @@ The works featured here I either have read / watched or are on my list.
 - The much more recent [Beating cuBLAS in Single-Precision General Matrix Multiplication](https://salykova.github.io/sgemm-gpu) blog post by Aman Salykov. **I HAVENT READ YET**
 
 ## Optimization - HFT / MM firms related
-- https://www.youtube.com/watch?v=NH1Tta7purM
+- Carl Cook's very [fun & entertaining CppCon 2017 talk](https://www.youtube.com/watch?v=NH1Tta7purM)
 
 ## Languages - Rust
 - [Jon Gjengset's incredible youtube channel](https://www.youtube.com/@jonhoo)
