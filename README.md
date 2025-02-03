@@ -31,9 +31,13 @@ If something is here but I haven't read it yet, It means that I think it will be
 
 ---
 
-## Languages - Rust
+## Languages
+### Rust
 - Jon Gjengset's incredible [youtube channel](https://www.youtube.com/@jonhoo)
 - No Boilerplate's fast technical videos, on his (youtube channel)[https://www.youtube.com/@NoBoilerplate]
+### Cuda
+- The GPUMODE [youtube channel](https://www.youtube.com/@GPUMODE)
+- The official cuda [programming guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/) by NVIDIA.
 ---
 
 ## Data structures
