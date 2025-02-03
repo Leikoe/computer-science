@@ -16,20 +16,32 @@ If something is here but I haven't read it yet, It means that I think it will be
 ## Machine Learning - Architectures
 - Andrej Karpathy's amazing [youtube channel](https://www.youtube.com/@AndrejKarpathy) I don't think there is the need to present it but in case: he takes you from ngram model to transformer, also teaches about how to make a tiny backprop engine and much more !!
 
-## Optimization - Machine Learning oriented / random hacking
+---
+
+## Optimization
+### Machine Learning oriented / random hacking
 - Geohot's archive [youtube channel](https://www.youtube.com/@geohotarchive) where his stream vods get uploaded (all the tinygrad streams are gold but you can also find quality rants about AMD).
 - The excellent [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM) blog post by SIBOEHM
 - The much more recent [Beating cuBLAS in Single-Precision General Matrix Multiplication](https://salykova.github.io/sgemm-gpu) blog post by Aman Salykov. **I HAVENT READ YET**
 
-## Optimization - HFT / MM firms related
+### HFT / MM firms related
 - Carl Cook's very fun & entertaining [CppCon 2017 talk](https://www.youtube.com/watch?v=NH1Tta7purM)
+
+### Game dev
+- Nemean's insanely well made video on [Fast Inverse Square Root — A Quake III Algorithm](https://www.youtube.com/@Nemean).
+
+---
 
 ## Languages - Rust
 - Jon Gjengset's incredible [youtube channel](https://www.youtube.com/@jonhoo)
 - No Boilerplate's fast technical videos, on his (youtube channel)[https://www.youtube.com/@NoBoilerplate]
 
+---
+
 ## Data structures
 - junminlee's [youtube channel](https://www.youtube.com/@JamieGo-id9xu) (this one seems new, maybe she deleted the old one?)
+
+---
 
 ## Misc how X works (low level, linux / OS dev)
 - sphaerophoria's gold mine of a [youtube channel](https://www.youtube.com/@sphaerophoria). He takes you to building your own google maps, making your own os and even writing your own gpu driver.
