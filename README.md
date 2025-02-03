@@ -27,6 +27,8 @@ If something is here but I haven't read it yet, It means that I think it will be
 - Carl Cook's very fun & entertaining [CppCon 2017 talk](https://www.youtube.com/watch?v=NH1Tta7purM)
 ### Game dev
 - Nemean's insanely well made video on [Fast Inverse Square Root — A Quake III Algorithm](https://www.youtube.com/@Nemean).
+- SimonDev's very addictive [youtube channel](https://www.youtube.com/@simondev758) where he explains gave dev concepts in a very chill and clear way.
+
 ---
 
 ## Languages - Rust
