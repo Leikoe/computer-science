@@ -39,7 +39,7 @@ If something is here but I haven't read it yet, It means that I think it will be
 - The GPUMODE [youtube channel](https://www.youtube.com/@GPUMODE)
 - The official cuda [programming guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/) by NVIDIA.
 ### Verilog
-- Learn verilog from a senior NVIDIA ASIC engineer: [youtube playlist](https://youtube.com/playlist?list=PL3Soy1ohxlP1TLpcbYXYcVWItRy_XrUk8&si=dAqErWY7Fhtv321i)
+- Learn verilog from a senior NVIDIA ASIC engineer: [youtube playlist](https://youtube.com/playlist?list=PL3Soy1ohxlP1TLpcbYXYcVWItRy_XrUk8&si=dAqErWY7Fhtv321i) **HAVENT WATCHED YET**
 ---
 
 ## Data structures
