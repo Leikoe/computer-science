@@ -19,6 +19,7 @@ If something is here but I haven't read it yet, It means that I think it will be
 ---
 
 ## Optimization
+General course on performance for HPC [link](https://en.algorithmica.org/hpc/)
 ### Machine Learning oriented / random hacking
 - Geohot's archive [youtube channel](https://www.youtube.com/@geohotarchive) where his stream vods get uploaded (all the tinygrad streams are gold but you can also find quality rants about AMD).
 - The excellent [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM) blog post by SIBOEHM
