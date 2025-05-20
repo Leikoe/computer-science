@@ -16,6 +16,8 @@ If something is here but I haven't read it yet, It means that I think it will be
 
 ## Machine Learning - Architectures
 - Andrej Karpathy's amazing [youtube channel](https://www.youtube.com/@AndrejKarpathy) I don't think there is the need to present it but in case: he takes you from ngram model to transformer, also teaches about how to make a tiny backprop engine and much more !!
+### RL
+- [The excellent rl intro by OpenAI](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
 ---
 
 ## Optimization
