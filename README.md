@@ -44,6 +44,7 @@ General course on performance for HPC [link](https://en.algorithmica.org/hpc/)
 ### CuTe-DSL
 - Simon veitner's blog like [this one](https://veitner.bearblog.dev/thread-value-layouts-in-cute/) on TV layouts, but there are lots of others on his blogs, please check it out!
 - Tri Dao's AI lab [Quack blog post](https://github.com/Dao-AILab/quack/blob/main/media/2025-07-10-membound-sol.md) which explains how to write SOL memory bound kernels.
+- Very good overview of CuTe DSL by [Ian Barber](https://ianbarber.blog/2025/07/04/cute-dsl/).
 - Not cute DSL but referenced in the Quack blog post. An [explaination of memory hierarchy on A100](https://fleetwood.dev/posts/domain-specific-architectures)
 
 ### Verilog
